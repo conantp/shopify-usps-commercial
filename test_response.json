@@ -1,0 +1,28 @@
+ {
+     "rates": [
+         {
+             "service_name": "patrickpost-overnight",
+             "service_code": "ON",
+             "total_price": "1295",
+             "currency": "CAD",
+             "min_delivery_date": "2016-04-12 14:48:45 -0400",
+             "max_delivery_date": "2016-04-12 14:48:45 -0400"
+         },
+         {
+             "service_name": "patrickpost-2dayground",
+             "service_code": "1D",
+             "total_price": "2934",
+             "currency": "USD",
+             "min_delivery_date": "2016-04-12 14:48:45 -0400",
+             "max_delivery_date": "2016-04-12 14:48:45 -0400"
+         },
+         {
+             "service_name": "patrickpost-2dayground",
+             "service_code": "1D",
+             "total_price": "2934",
+             "currency": "USD",
+             "min_delivery_date": "2016-04-12 14:48:45 -0400",
+             "max_delivery_date": "2016-04-12 14:48:45 -0400"
+         }
+     ]
+  }
